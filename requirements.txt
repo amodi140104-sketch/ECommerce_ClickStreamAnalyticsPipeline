@@ -1,0 +1,30 @@
+# E-Commerce Real-Time Analytics Pipeline
+# Python Dependencies
+
+# Kafka
+kafka-python==2.0.2
+
+# Redis
+redis==5.0.1
+
+# PostgreSQL
+psycopg2-binary==2.9.9
+
+# Data Processing
+pandas==2.1.4
+
+# Dashboard
+streamlit==1.29.0
+plotly==5.18.0
+
+# Utilities
+python-dateutil==2.8.2
+
+# Optional: For Spark (if you want to use it later)
+# pyspark==3.5.0
+
+# Optional: Data quality (for future)
+# great-expectations==0.18.8
+
+# Optional: Data generation helpers
+# faker==21.0.0
